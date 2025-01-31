@@ -1,7 +1,9 @@
+import Weather from "./components/Weather";
+
 export default function App() {
   return (
     <div>
-      <h1>Weather</h1>
+      <Weather />
     </div>
   );
 }
